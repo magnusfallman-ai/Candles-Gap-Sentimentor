@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T23:09:53.614516+00:00",
+  "updated": "2026-09-07T23:39:02.442130+00:00",
   "source": "TradingView pre-market gappers (america)",
   "total_count": 4,
   "columns": [
@@ -64,7 +64,7 @@
       "premarket_volume": 50556934,
       "float_shares_percent_current": null,
       "float_shares_outstanding_current": null,
-      "market_cap_basic": 8598642.16557,
+      "market_cap_basic": 9300607.3446,
       "sector": "Health Technology",
       "exchange.tr": "NASDAQ"
     },
@@ -74,10 +74,10 @@
       "premarket_change": 51.58371040723983,
       "change_from_open": -37.40685543964232,
       "premarket_close": 3.35,
-      "premarket_volume": 7049488,
+      "premarket_volume": 7076741,
       "float_shares_percent_current": 100,
       "float_shares_outstanding_current": 799914,
-      "market_cap_basic": 1724009.7000000002,
+      "market_cap_basic": 1724010,
       "sector": "Consumer Non-Durables",
       "exchange.tr": "NASDAQ"
     },
@@ -90,7 +90,7 @@
       "premarket_volume": 6182958,
       "float_shares_percent_current": 80.1224,
       "float_shares_outstanding_current": 863560.028424,
-      "market_cap_basic": 2748392.375776397,
+      "market_cap_basic": 2748392,
       "sector": "Transportation",
       "exchange.tr": "NASDAQ"
     },
@@ -103,7 +103,7 @@
       "premarket_volume": 114347,
       "float_shares_percent_current": 83.90039999999999,
       "float_shares_outstanding_current": 10589237.284799999,
-      "market_cap_basic": 182721225.01498502,
+      "market_cap_basic": 182755323.99999997,
       "sector": "Consumer Durables",
       "exchange.tr": "NASDAQ"
     }
